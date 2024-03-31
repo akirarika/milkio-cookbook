@@ -1,0 +1,8 @@
+{
+    "Local Origin": {
+        "cookbook": "http://localhost:9000/cookbook",
+        "base": "http://localhost:9000/",
+        "params": "Pa$$w0rd!",
+        "headers": {}
+    }
+}

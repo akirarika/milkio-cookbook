@@ -8,6 +8,7 @@ export default defineConfig({
   base: "./",
   build: {
     outDir: "docs",
+    target: "es2022"
   },
   plugins: [
     vue(),

@@ -1,4 +1,4 @@
-import { Type, type Static, Record } from "@sinclair/typebox";
+import { Type } from "@sinclair/typebox";
 
 declare global {
   var cookbookConfig: {
