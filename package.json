@@ -1,5 +1,5 @@
 {
-  "name": "loongbao-cookbook",
+  "name": "milkio-cookbook",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -21,7 +21,7 @@
     "eruda": "^3.0.1",
     "highlight.js": "^11.9.0",
     "install": "^0.13.0",
-    "loongbao-client": "0.1.4",
+    "milkio-client": "^0.0.5",
     "npm": "^10.4.0",
     "remixicon": "^4.1.0",
     "typia": "^5.4.8",
